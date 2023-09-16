@@ -1,3 +1,15 @@
+React Course
+The content is part of my React Course. If you enjoy the content and my teaching style, you can always enroll in the full course (link below)
+
+My React Course
+
+All My Courses
+Project Based Web Dev Courses
+
+Support
+Don't want to enroll in the course, but still find the Content Useful?
+You can always buy me a coffee and/or "star" this repo :)
+
 ## Figma URL
 
 [Unsplash Images](https://www.figma.com/file/O2MaAAlr4nznh7m53azatL/Unsplash-images?node-id=0%3A1&t=cYDOCgqOs9IX2If0-1)
